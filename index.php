@@ -16,9 +16,9 @@ and open the template in the editor.
         </script>
     </head>
     <body>
-        <form id="formAdd" data-url="controlador/decode_url.php">
+        <form id="formAdd" data-url="controlador/decode_url.php" style="text-align: center;">
             <input name="url" id="url" placeholder="verificar cambios"><br>
-            <button id="enviar" type="button">Enviar</button>
+            <button id="enviar" type="button">verificar</button>
         </form>
         <div id="resp">
             
