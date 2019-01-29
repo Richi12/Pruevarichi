@@ -18,3 +18,5 @@ function decodeQueryString($get) {
 }
 
 print_r(decodeQueryString($url));
+
+?>
